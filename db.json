@@ -1,0 +1,36 @@
+{
+  "status": {
+    "companyId": 1068552,
+    "employeeId": "1068552-1",
+    "verificationStatus": false
+  },
+  "reasons": [
+    {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054502,
+      "relatedEmployeeId": null,
+      "requestFieldName": "company name",
+      "requestFieldValue": "RST Rafał Łysiak",
+      "reasonName": "LbReasons_Unknown",
+      "blockedCompanyStatus": "DEAUTHORIZED"
+    },
+    {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054189,
+      "relatedEmployeeId": null,
+      "requestFieldName": "company name",
+      "requestFieldValue": "RST Rafał Łysiak",
+      "reasonName": "LbReasons_Unknown",
+      "blockedCompanyStatus": "DEAUTHORIZED"
+    },
+    {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054118,
+      "relatedEmployeeId": null,
+      "requestFieldName": "company name",
+      "requestFieldValue": "RST Rafał Łysiak",
+      "reasonName": "LbReasons_Unknown",
+      "blockedCompanyStatus": "BLOCKED"
+    }
+  ]
+}
