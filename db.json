@@ -11,7 +11,7 @@
       "relatedEmployeeId": null,
       "requestFieldName": "company name",
       "requestFieldValue": "RST Rafał Łysiak",
-      "reasonName": "LbReasons_Unknown",
+      "reasonName": "LbPanel_CompanyStatus_DeauthorizationReason_Abuse",
       "blockedCompanyStatus": "DEAUTHORIZED"
     },
     {
@@ -20,7 +20,7 @@
       "relatedEmployeeId": null,
       "requestFieldName": "company name",
       "requestFieldValue": "RST Rafał Łysiak",
-      "reasonName": "LbReasons_Unknown",
+      "reasonName": "LbPanel_CompanyStatus_DeauthorizationReason_AccountSharing",
       "blockedCompanyStatus": "DEAUTHORIZED"
     },
     {
