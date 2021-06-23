@@ -14,6 +14,15 @@
       "reasonName": "LbPanel_CompanyStatus_DeauthorizationReason_Abuse",
       "blockedCompanyStatus": "DEAUTHORIZED"
     },
+     {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054189,
+      "relatedEmployeeId": null,
+      "requestFieldName": "phone",
+      "requestFieldValue": "RST Rafał Łysiak",
+      "reasonName": "LbPanel_CompanyStatus_DeauthorizationReason_AccountSharing",
+      "blockedCompanyStatus": "BLOCKED"
+    },
     {
       "reasonDescription": null,
       "relatedCompanyId": 1054189,
