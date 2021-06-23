@@ -5,5 +5,41 @@
     "verificationStatus": false
   },
   "reasons": [
+    {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054502,
+      "relatedEmployeeId": null,
+      "requestFieldName": "company name",
+      "requestFieldValue": "RST Rafał Łysiak",
+      "reasonName": "LbPanel_CompanyStatus_DeauthorizationReason_Abuse",
+      "blockedCompanyStatus": "DEAUTHORIZED"
+    },
+     {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054189,
+      "relatedEmployeeId": null,
+      "requestFieldName": "phone",
+      "requestFieldValue": "125854325",
+      "reasonName": "LbPanel_CompanyStatus_DeauthorizationReason_AccountSharing",
+      "blockedCompanyStatus": "BLOCKED"
+    },
+    {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054189,
+      "relatedEmployeeId": null,
+      "requestFieldName": "company name",
+      "requestFieldValue": "RST Rafał Łysiak",
+      "reasonName": "LbPanel_CompanyStatus_DeauthorizationReason_AccountSharing",
+      "blockedCompanyStatus": "DEAUTHORIZED"
+    },
+    {
+      "reasonDescription": null,
+      "relatedCompanyId": 1054118,
+      "relatedEmployeeId": null,
+      "requestFieldName": "company name",
+      "requestFieldValue": "RST Rafał Łysiak",
+      "reasonName": "LbReasons_Unknown",
+      "blockedCompanyStatus": "BLOCKED"
+    }
   ]
 }
